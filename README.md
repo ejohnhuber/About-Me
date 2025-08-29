@@ -1,4 +1,4 @@
-# Profile---About-Me
+# My Profile---About-Me
 My name is John Huber, and I am a recent graduate of Louisiana State University, where I earned dual degrees in Economics and International Management with a minor in Energy. During my studies, I built a strong foundation in economic theory, econometrics, and energy systems management while also engaging in extensive research and analysis. My academic training combined quantitative rigor with applied problem-solving, which fueled my early interest in coding and data analysis.
 
 Throughout college, I regularly used STATA and R for econometrics and statistical modeling. I applied these tools to a wide range of projects, from time-series forecasting to Value at Risk (VaR) analysis and GARCH modeling. These experiences not only sharpened my technical skills but also gave me a deep appreciation for how coding can unlock insights in economics, finance, and energy markets.
