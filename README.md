@@ -1,2 +1,10 @@
 # Profile---About-Me
-This file provides a short overview of my background and coding experience.
+My name is John Huber, and I am a recent graduate of Louisiana State University, where I earned dual degrees in Economics and International Management with a minor in Energy. During my studies, I built a strong foundation in economic theory, econometrics, and energy systems management while also engaging in extensive research and analysis. My academic training combined quantitative rigor with applied problem-solving, which fueled my early interest in coding and data analysis.
+
+Throughout college, I regularly used STATA and R for econometrics and statistical modeling. I applied these tools to a wide range of projects, from time-series forecasting to Value at Risk (VaR) analysis and GARCH modeling. These experiences not only sharpened my technical skills but also gave me a deep appreciation for how coding can unlock insights in economics, finance, and energy markets.
+
+Outside of coursework, I developed a broader curiosity for coding. I explored programming concepts beyond econometrics, recognizing how coding skills could enhance efficiency, creativity, and problem-solving in nearly any field. While my professional experience has focused on energy markets and business development—particularly within the oil and gas industry—I have always viewed coding as a complementary skillset that strengthens my ability to analyze data, build tools, and create solutions.
+
+Now, after completing my undergraduate studies and beginning my professional career, I am actively pursuing coding with renewed focus. This profile is intended to track my progress on various non-work projects, documenting both the expansion of my technical skills and the practical applications I develop over time. My aim is to steadily build upon the foundation I gained in college, moving from econometric modeling toward broader applications in automation, data visualization, and project-based coding.
+
+By keeping a record of my growth here, I hope to demonstrate not only the technical side of my journey but also the consistency and discipline I bring to developing new skills. This profile represents the intersection of my background in economics, my career in energy, and my long-term passion for coding.
